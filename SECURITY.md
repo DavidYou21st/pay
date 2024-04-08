@@ -7,7 +7,8 @@ currently being supported with security updates.
 
 |    Version    |   PHP    |                       Branch                       |      Status      |
 |:--------:|:--------:|:----------------------------------------------:|:------------:|
-|   v1   | `>= 8.0` |                     master                     |    维护中     |
+|   v2   | `>= 8.0` |                     master                     |    维护中     |
+|   v1   | `>= 8.0` |                     v1                     |    维护中     |
 
 ## Reporting a Vulnerability
 
